@@ -11,7 +11,7 @@ This example combines solutions that are demonstrated in the following KB articl
 * [WinForms CheckEdit - Change the state by clicking exactly on the checkbox (glyph)](https://supportcenter.devexpress.com/ticket/details/e315/winforms-checkedit-change-the-state-by-clicking-exactly-on-the-checkbox-glyph)
 * [Why are several clicks necessary to change an in-place CheckEdit's state when multiple cell selection is enabled?](https://supportcenter.devexpress.com/ticket/details/k18380/why-are-several-clicks-necessary-to-change-an-in-place-checkedit-s-state-when-multiple)
 
-In this example, an end-user can select multiple cells by pressing the left mouse button and moving the mouse. If the user clicks exactly the check glyph, the state of the check editor changes. Users can change the checkbox state with one click and start selecting cells.
+In this example, an end user can select multiple cells by pressing the left mouse button and moving the mouse. If the user clicks the check glyph directly, the state of the check editor changes. Users can change the checkbox state with one click and start selecting cells.
 
 
 ## Files to Review
